@@ -1,1 +1,1 @@
-https://github.com/aagaev/advanced_html/tree/main/pulse/dist
+https://aagaev.github.io/advanced_html/tree/main/pulse/dist
