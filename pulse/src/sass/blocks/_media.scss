@@ -291,6 +291,15 @@
 			width: 50px;
 		}
 	}
+	.overlay {
+		.modal {
+			&__close {
+				top: 5px;
+				right: 4px;
+
+			}
+		}
+	}
 }
 
 @media (max-width: 320px) {
@@ -374,6 +383,15 @@
 		}
 		img {
 			width: 50px;
+		}
+	}
+	.overlay {
+		.modal {
+			&__close {
+				top: 5px;
+				right: 34px;
+
+			}
 		}
 	}
 		
